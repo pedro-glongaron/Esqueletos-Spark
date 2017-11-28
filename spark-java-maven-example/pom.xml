@@ -32,6 +32,12 @@
 			<version>1.6.0-cdh5.7.0</version>
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.apache.spark</groupId>
+			<artifactId>spark-streaming-kafka_2.10</artifactId>
+			<version>1.6.0-cdh5.7.0</version>
+			<scope>provided</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
